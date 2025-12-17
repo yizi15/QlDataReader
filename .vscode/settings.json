@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "C:\\Python39\\python.exe",
+    "python.autoComplete.extraPaths": [
+        // "./qlelib"
+    ],
+    "python.analysis.extraPaths": [
+        // "./qlelib"
+    ],
+}

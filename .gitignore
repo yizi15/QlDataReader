@@ -1,0 +1,6 @@
+__pycache__
+build
+*.edf
+*.eeg
+*.acc
+*.spec
